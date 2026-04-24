@@ -1,0 +1,7 @@
+int float
+alpha beta gamma
+alpha delta
+beta epsilon
+gamma
+zeta @ #
+alpha

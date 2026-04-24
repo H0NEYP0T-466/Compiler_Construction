@@ -1,0 +1,6 @@
+int x
+float y
+if 9abc
+else 123
+validName
+7xyz @
